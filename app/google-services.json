@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631649048757",
+    "project_id": "stud-easee",
+    "storage_bucket": "stud-easee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631649048757:android:e13ed7f30e46a3032a86fc",
+        "android_client_info": {
+          "package_name": "com.example.studeasee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmx5snZA5a3f48DLq5WmMBwHZJye9Fq_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
